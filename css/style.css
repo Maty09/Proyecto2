@@ -1,0 +1,10 @@
+body{
+    background:#f0eac4;
+    letter-spacing: 0.2em;
+}
+.container {
+    max-width: 450px;
+}
+.detalle{
+    background-color: white;
+}
